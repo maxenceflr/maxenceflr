@@ -19,7 +19,7 @@ Voici quelques statistiques liées à mon compte GitHub :
 
 ---
 
-# Langages, Outils et Environnements
+# Langages
 
 <p align="center">
   <!-- Langages / Frameworks / Bases de données -->
@@ -29,20 +29,26 @@ Voici quelques statistiques liées à mon compte GitHub :
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+
 </p>
 
+# Outils
 <p align="center">
   <!-- Outils -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscodium/vscodium-original.svg" width="40" alt="VSCodium"/>
 </p>
 
+# Environnements
 <p align="center">
   <!-- Environnements -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscodium/vscodium-original.svg" width="40" alt="VSCodium"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="40" alt="Godot"/>
 </p>
