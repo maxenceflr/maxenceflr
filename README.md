@@ -5,9 +5,7 @@ Passionné par le développement logiciel, les architectures réseau, la program
 
 Voici quelques statistiques liées à mon compte GitHub :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxenceflr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark&cache_seconds=1800" />
