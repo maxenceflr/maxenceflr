@@ -51,8 +51,3 @@ Voici quelques statistiques liées à mon compte GitHub :
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="40" alt="Godot"/>
 </p>
 
----
-
-# Projets
-
-(Ici tu peux lister tes projets avec des descriptions ou des liens vers les repos.)
