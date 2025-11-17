@@ -37,8 +37,6 @@ Voici quelques statistiques liées à mon compte GitHub :
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscodium/vscodium-original.svg" width="40" alt="VSCodium"/>
 </p>
 
 # Environnements
