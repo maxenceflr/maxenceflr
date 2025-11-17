@@ -10,11 +10,11 @@ Voici quelques statistiques liées à mon compte GitHub :
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=news782&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=news782&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxenceflr&theme=dark&hide_border=false" />
 </p>
 
 ---
