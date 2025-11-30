@@ -7,10 +7,7 @@ Voici quelques statistiques liées à mon compte GitHub :
 
 
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark)
 
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxenceflr&theme=dark&hide_border=false" />
@@ -28,6 +25,9 @@ Voici quelques statistiques liées à mon compte GitHub :
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="40" alt="PHP"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark" />
+
 
 </p>
 
