@@ -10,10 +10,14 @@ Voici quelques statistiques liées à mon compte GitHub :
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxenceflr&theme=dark&hide_border=false" />
-  ![](https://github-readme-stats.vercel.app/api?username=news782&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=news782&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=news782&layout=compact&theme=dark&cache_seconds=1800)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxenceflr&theme=dark&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=maxenceflr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=maxenceflr&theme=dark&hide_border=false" /><br/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark&cache_seconds=1800" />
+
 </p>
 
 ---
