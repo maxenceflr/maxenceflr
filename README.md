@@ -12,10 +12,11 @@ Voici quelques statistiques liées à mon compte GitHub :
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxenceflr&theme=dark&hide_border=false" />
 
-
 </p>
 
+
 # Me contacter
+
 maxence.flieller@etu.unistra.fr
 ---
 
