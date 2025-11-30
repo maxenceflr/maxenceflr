@@ -8,7 +8,8 @@ Voici quelques statistiques liées à mon compte GitHub :
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark&cache_seconds=1800" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceflr&layout=compact&theme=dark)
+
 </p>
 
 <p align="center">
