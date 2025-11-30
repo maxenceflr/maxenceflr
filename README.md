@@ -56,15 +56,15 @@ maxence.flieller@etu.unistra.fr
 # Mes Projets
 <ul>
   <li>
-    <a href="https://github.com/maxenceflr/POO-Java-jeu-Donjons-et-Dragons" style="font-size:18px; font-weight:bold;">Doojons-Dragons</a>
+    <a href="https://github.com/maxenceflr/POO-Java-jeu-Donjons-et-Dragons" style="font-size:21px; font-weight:bold;">Doojons-Dragons</a>
     : <span style="font-size:14px;">Création d'un simulateur de partie de jeu de rôle, en Java, seul</span>
   </li>
   <li>
-    <a href="https://github.com/maxenceflr/Resolveur-de-sudoku-Assembleur" style="font-size:18px; font-weight:bold;">Assembleur Sudoku</a>
+    <a href="https://github.com/maxenceflr/Resolveur-de-sudoku-Assembleur" style="font-size:21px; font-weight:bold;">Assembleur Sudoku</a>
     : <span style="font-size:14px;">Création d'un résolveur de Sudoku, en assembleur, en binôme</span>
   </li>
   <li>
-    <a href="https://github.com/maxenceflr/simulation-LAN-en-C" style="font-size:18px; font-weight:bold;">Simulation LAN en C</a>
+    <a href="https://github.com/maxenceflr/simulation-LAN-en-C" style="font-size:21px; font-weight:bold;">Simulation LAN en C</a>
     : <span style="font-size:14px;">Simulation des protocoles de réseau, en C</span>
   </li>
 </ul>
