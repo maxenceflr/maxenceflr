@@ -1,4 +1,4 @@
-# Bonjour, moi c’est Maxence
+# Salut, c’est Maxence
 
 Étudiant en 2ème année de BUT Informatique à Strasbourg.  
 Passionné par le développement logiciel, les architectures réseau, la programmation système et les projets mêlant logique, optimisation et conception.
