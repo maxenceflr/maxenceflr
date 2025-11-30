@@ -55,7 +55,7 @@ maxence.flieller@etu.unistra.fr
 </p>
 
 # Mes Projets
-### [Doojons-Dragons](https://github.com/maxenceflr/POO-Java-jeu-Donjons-et-Dragons)
+### [Donjons-Dragons](https://github.com/maxenceflr/POO-Java-jeu-Donjons-et-Dragons)
 Création d'un simulateur de partie de jeu de rôle, en Java, seul
 
 ### [Assembleur Sudoku](https://github.com/maxenceflr/Resolveur-de-sudoku-Assembleur)
