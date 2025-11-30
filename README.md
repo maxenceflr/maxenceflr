@@ -15,6 +15,8 @@ Voici quelques statistiques liées à mon compte GitHub :
 
 </p>
 
+# Me contacter
+maxence.flieller@etu.unistra.fr
 ---
 
 # Langages
