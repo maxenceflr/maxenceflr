@@ -61,7 +61,7 @@ Création d'un simulateur de partie de jeu de rôle, en Java, seul
 Création d'un résolveur de Sudoku, en assembleur, en binôme
 
 ### [Simulation LAN en C](https://github.com/maxenceflr/simulation-LAN-en-C)
-Simulation des protocoles de réseau, en C
+Simulation des protocoles de réseau, en C, en binôme
 
 
 
