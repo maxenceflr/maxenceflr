@@ -10,7 +10,7 @@ Voici quelques statistiques liées à mon compte GitHub :
 
 
 <p align="center">
-  <img src="https://your-vercel-app.vercel.app/api?username=maxenceflr&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxenceflr&theme=dark&hide_border=false" />
 </p>
 
 ---
