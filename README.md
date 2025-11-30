@@ -54,9 +54,7 @@ maxence.flieller@etu.unistra.fr
 </p>
 
 # Mes Projets
-<p>
-[Doojons-Dragons](https://github.com/maxenceflr/POO-Java-jeu-Donjons-et-Dragons) : Création d'un simulateur de partie de jeu de rôle, en Java, seul\n
-[Assembleur Sudoku](https://github.com/maxenceflr/Resolveur-de-sudoku-Assembleur) : Création d'un résolveur de Sudoku, en assembleur, en binôme\n
-[Simulation LAN en C](https://github.com/maxenceflr/simulation-LAN-en-C) : Simulation des protocoles de reseau, en C
-</p>
+[Doojons-Dragons](https://github.com/maxenceflr/POO-Java-jeu-Donjons-et-Dragons) : Création d'un simulateur de partie de jeu de rôle, en Java, seul  
+[Assembleur Sudoku](https://github.com/maxenceflr/Resolveur-de-sudoku-Assembleur) : Création d'un résolveur de Sudoku, en assembleur, en binôme  
+[Simulation LAN en C](https://github.com/maxenceflr/simulation-LAN-en-C) : Simulation des protocoles de réseau, en C
 
