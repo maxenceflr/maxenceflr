@@ -53,3 +53,9 @@ maxence.flieller@etu.unistra.fr
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="40" alt="Godot"/>
 </p>
 
+# Mes Projets
+Doojons-Dragons : Création d'un simulateur de partie de jeu de rôle, en Java, seul
+Assembleur-Sudoku : Création d'un résolveur de Sudoku, en assembleur, en binôme
+Simulation-Lan : Simulation des protocoles de reseau, en C
+</p>
+
